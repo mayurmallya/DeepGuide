@@ -1,6 +1,6 @@
 # Deep Multimodal Guidance for Medical Image Classification
 
-Illustration of the proposed multimodal guidance strategy: (a) modality-specific classifiers C<sub>I</sub> and C<sub>S</sub>, (b) guidance model G, (c) guided model G(I), (d) guided model G(I)+I.
+The proposed multimodal guidance strategy works as follows: (a) we first train the modality-specific classifiers C<sub>I</sub> and C<sub>S</sub> for both inferior and superior modalities, (b) next we train the guidance model G, followed by the guided inferior modality models G(I) and G(I)+I as in (c) and (d) respectively.
 
 ![](/imgs/MMG.png)
 
