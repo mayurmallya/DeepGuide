@@ -1,5 +1,7 @@
 # Deep Multimodal Guidance for Medical Image Classification
 
+Illustration of the proposed multimodal guidance strategy: (a) modality-specific classifiers C<sub>I</sub> and C<sub>S</sub>, (b) guidance model G, (c) guided model G(I), (d) guided model G(I)+I.
+
 ![](/imgs/MMG.png)
 
 
@@ -20,4 +22,34 @@ If you use the codes, please cite our paper. The bibtex entry is:
 ```
 ---
 
-The codes would be made public soon!
+# Derm7pt
+
+### Dataset
+
+### Requirements
+
+### Models
+
+#### a) Modality-specific classifiers C<sub>I</sub> and C<sub>S</sub>
+
+#### b) Guidance model G
+
+#### c) Guided model G(I)
+
+#### d) Guided model G(I)+I
+
+# RadPath
+
+### Dataset
+
+### Requirements
+
+### Models
+
+#### a) Modality-specific classifiers C<sub>I</sub> and C<sub>S</sub>
+
+#### b) Guidance model G
+
+#### c) Guided model G(I)
+
+#### d) Guided model G(I)+I
