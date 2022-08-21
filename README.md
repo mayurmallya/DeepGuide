@@ -24,7 +24,7 @@ If you use the codes, please cite our paper. The bibtex entry is:
 
 # Derm7pt
 
-### Dataset
+Derm7pt is a publicly available dataset of multimodal skin lesions images and can be downloaded from [here](https://github.com/jeremykawahara/derm7pt).
 
 ### Requirements
 
@@ -40,7 +40,7 @@ If you use the codes, please cite our paper. The bibtex entry is:
 
 # RadPath
 
-### Dataset
+RadPath is a publicly available dataset of multimodal brain tumor images from the [RadPath 2020](https://miccai.westus2.cloudapp.azure.com/competitions/1) challenge and can be downloaded from [here](http://miccai2020-data.eastus.cloudapp.azure.com/).
 
 ### Requirements
 
