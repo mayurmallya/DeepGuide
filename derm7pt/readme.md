@@ -24,4 +24,4 @@ conda activate env_derm7pt
 
 3) Finally, run `guided_model.ipynb` for the proposed guided model, G(I)+I.
 
-4) (Optional) Compare the performance of the guided model with the multimodel model from `multimodal_classifier.ipynb`.
+4) (Optional) Compare the performance of the guided model with the multimodal model from `multimodal_classifier.ipynb`.
