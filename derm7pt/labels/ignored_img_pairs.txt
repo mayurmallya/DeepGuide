@@ -1,0 +1,28 @@
+These are the row numbers of the ignored image pairs of Derm7pt (meta.csv original row numbers)
+
+566- 565	lentigo	2	atypical	absent	absent	absent	absent	absent	absent	high	flat	chest	female	excision	Fhl/Fhl018.jpg	Fhl/Fhl018.jpg		Replaced clinic Fhl/Fhl017.jpg with derm Fhl/Fhl018.jpg
+
+
+801- 800	melanoma (more than 1.5 mm)	6	absent	absent	diffuse irregular	absent	irregular	present	linear irregular	low	nodular	genital areas	male	excision	NBL/NBL049.JPG	NBL/NBL049.JPG	1b514950	Replaced clinic NBL/Nbl051.jpg with derm NBL/NBL049.JPG
+
+
+825- 824	melanoma metastasis	0	absent	absent	diffuse regular	absent	absent	absent	arborizing	high	nodular	chest	male	excision	NBL/NBL041.JPG	NBL/NBL041.JPG		Clinical missing and replaced with derm
+
+
+828- 827	melanoma metastasis	3	absent	absent	absent	absent	irregular	present	arborizing	high	nodular	chest	male	excision	NBL/Nbl042.jpg	NBL/Nbl042.jpg		Clinical missing and replaced with derm
+
+
+834- 833	melanosis	2	absent	absent	absent	combinations	irregular	absent	absent	high	flat	genital areas	female	excision	Fgl/Fgl059.jpg	Fgl/Fgl059.jpg		Replaced clinic Fgl/Fgl058.jpg with derm Fgl/Fgl059.jpg
+
+
+835- 834	melanosis	1	absent	regular	diffuse regular	combinations	absent	absent	arborizing	medium	flat	genital areas	female	clinical follow up	Fhl/Fhl002.jpg	Fhl/Fhl002.jpg		Replaced clinic Fhl/Fhl001.jpg with derm Fhl/Fhl002.jpg
+
+
+840- 839	melanosis	2	absent	regular	absent	absent	regular	present	absent	medium	flat	genital areas	female	excision	Fhl/Fhl012.jpg	Fhl/Fhl012.jpg		Replaced clinic Fhl/Fhl011.jpg with derm Fhl/Fhl012.jpg
+
+
+845- 844	miscellaneous	1	absent	irregular	absent	absent	regular	absent	hairpin	high	flat	lower limbs	female	excision	NEL/Nel050.jpg	NEL/Nel050.jpg		Clinical missing and replaced with derm
+
+
+852- 851	miscellaneous	2	absent	absent	diffuse regular	absent	regular	absent	dotted	high	flat	lower limbs	female	excision	NEL/Nel051.jpg	NEL/Nel051.jpg		Clinical missing and replaced with derm
+
