@@ -1,5 +1,9 @@
 # RadPath
 
+Example images of the RadPath dataset. The image shows the inferior radiology-based multisequence MRI on the left and superior histopathology WSI on the right.
+
+![](./img_radpath.png)
+
 RadPath is a publicly available dataset of multimodal brain tumor images from the [RadPath 2020](https://miccai.westus2.cloudapp.azure.com/competitions/1) challenge and can be downloaded from [here](http://miccai2020-data.eastus.cloudapp.azure.com/).
 
 ### Requirements
