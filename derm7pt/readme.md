@@ -18,10 +18,10 @@ conda activate env_derm7pt
 
 ### Models
 
-#### a) Modality-specific classifiers C<sub>I</sub> and C<sub>S</sub>
+1) Run `modality_specific_classifier.ipynb` for evaluating the inferior and superior modality classifiers 
 
-#### b) Guidance model G
+2) Run `guidance_model.ipynb` to map from the latent space of inferior to superior after extracting the latent representations using `latent_representations.ipynb`.
 
-#### c) Guided model G(I)
+3) Finally, run `guided_model.ipynb` for the proposed guided model, G(I)+I
 
-#### d) Guided model G(I)+I
+4) (Optional) Compare the performance of the guided model with the multimodel model from `multimodal_classifier.ipynb`.
