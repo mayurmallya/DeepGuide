@@ -1,5 +1,9 @@
 # Derm7pt
 
+Example images of the Derm7pt dataset. The top row shows the inferior modality clinical images and the bottom row shows the corresponding superior modality images of the dermoscopic modality.
+
+![](./img.png)
+
 Derm7pt is a publicly available dataset of multimodal skin lesions images and can be downloaded from [here](https://github.com/jeremykawahara/derm7pt). We use the same training-validation-testing splits as in the dataset but we remove 8 pairs of images that lack one of the modalities (see the `./labels` folder).
 
 ### Requirements
