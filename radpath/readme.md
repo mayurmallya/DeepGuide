@@ -27,3 +27,7 @@ conda activate env_rad
 `python train.py -b 10 -e 600 -m t1 -f 1 --early_stopping --dropout 0.1 -x exp_t1`
 
 2) To extract the latent representations, use the `latent_represenetations.ipynb` notebook
+
+## Pathology
+
+## Guidance
