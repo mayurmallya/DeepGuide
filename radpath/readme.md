@@ -4,7 +4,7 @@ Example images of the RadPath dataset. The image shows the inferior radiology-ba
 
 ![](./img_radpath.png)
 
-RadPath is a publicly available dataset of multimodal brain tumor images from the [RadPath 2020](https://miccai.westus2.cloudapp.azure.com/competitions/1) challenge and can be downloaded from [here](http://miccai2020-data.eastus.cloudapp.azure.com/).
+RadPath is a publicly available dataset of multimodal brain tumor images from the [RadPath 2020](https://miccai.westus2.cloudapp.azure.com/competitions/1) challenge and can be downloaded from [here](http://miccai2020-data.eastus.cloudapp.azure.com/). We use the training-validation-testing splits provided in the `./labels` folder.
 
 ---
 
