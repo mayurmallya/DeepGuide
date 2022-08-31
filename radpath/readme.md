@@ -6,14 +6,24 @@ Example images of the RadPath dataset. The image shows the inferior radiology-ba
 
 RadPath is a publicly available dataset of multimodal brain tumor images from the [RadPath 2020](https://miccai.westus2.cloudapp.azure.com/competitions/1) challenge and can be downloaded from [here](http://miccai2020-data.eastus.cloudapp.azure.com/).
 
+---
+
+## Radiology
+
 ### Requirements
+
+Use the `env_rad.yml` conda environment for training the modality-specific classifier for radiology as follows:
+
+```
+cd radpath
+conda env create -f env_rad.yml
+conda activate env_rad
+```
 
 ### Models
 
-#### a) Modality-specific classifiers C<sub>I</sub> and C<sub>S</sub>
+1) Train the baseline classifier of radiology as follows:
 
-#### b) Guidance model G
+`python train.py -b 10 -e 600 -m t1 -f 1 --early_stopping --dropout 0.1 -x exp_t1`
 
-#### c) Guided model G(I)
-
-#### d) Guided model G(I)+I
+2) To extract the latent representations, use the `latent_represenetations.ipynb` notebook
