@@ -50,3 +50,8 @@ For more details, please see the official [CLAM](https://github.com/mahmoodlab/C
 
 
 ## Guidance
+
+1) Run `guidance_model.ipynb` to map from the latent space of inferior radiology to superior pathology modality.
+
+2) Finally, run `guided_model.ipynb` for the proposed guided model, G(I)+I.
+
