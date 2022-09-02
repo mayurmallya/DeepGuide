@@ -46,5 +46,7 @@ We use of the [CLAM](https://github.com/mahmoodlab/CLAM/blob/master/docs/README_
 
 For more details, please see the official [CLAM](https://github.com/mahmoodlab/CLAM/blob/master/docs/README_old.md) repository.
 
+4) To extract the latent representations, use the `latent_representations.ipynb` from the `path` folder. The `env_path.yml` file can be used for the conda environment.
+
 
 ## Guidance
