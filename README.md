@@ -23,6 +23,6 @@ If you use the codes, please cite our paper. The bibtex entry is:
 
 ---
 
-The codes for the analysis of brain tumor imagess of RadPath dataset and skin lesion imagess of Derm7pt dataset can be found in the respective folders.
+The codes for the analysis of brain tumor images of the RadPath dataset and skin lesion images of the Derm7pt dataset can be found in the respective folders.
 
 If you find any issues in the repository and/or have suggestions on improving the code, feel free to raise an issue. Reach out to me via email at `mmallya`@`sfu`.`ca` for further collaborations and discussions.
