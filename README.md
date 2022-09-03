@@ -20,3 +20,7 @@ If you use the codes, please cite our paper. The bibtex entry is:
   organization={Springer}
 }
 ```
+
+---
+
+If you find any issues in the repository and/or have suggestions on improving the code, feel free to raise an issue. Reach out to me via email at `mmallya@sfu.ca` for further collaborations and discussions.
