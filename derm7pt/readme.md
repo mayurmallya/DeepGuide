@@ -18,7 +18,7 @@ conda activate env_derm7pt
 
 ### Models
 
-1) Run `modality_specific_classifier.ipynb` for evaluating the inferior and superior modality classifiers.
+1) Run `modality_specific_classifier.ipynb` for evaluating the inferior and superior modality classifiers. The pretrained model can be found at- https://drive.google.com/drive/folders/19sTB49N7SBQBRO-yP05957yzZNuEk_Cz?usp=sharing
 
 2) Run `guidance_model.ipynb` to map from the latent space of inferior to superior after extracting the latent representations using `latent_representations.ipynb`.
 
