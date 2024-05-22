@@ -1,4 +1,4 @@
-# Deep Multimodal Guidance for Medical Image Classification
+# Deep Multimodal Guidance for Medical Image Classification (MICCAI 2022 Early Accept)
 
 This repository contains the codes corresponding to our MICCAI 2022 paper:
 
